@@ -1,0 +1,9 @@
+# This project uses only the Python standard library (≥ 3.10).
+# No third-party packages are required.
+
+# If you extend the project with additional features (e.g., CLI parsers, color
+# output libraries, or testing frameworks), list them below:
+#
+# pytest>=7.0
+# rich>=13.0
+# click>=8.0
