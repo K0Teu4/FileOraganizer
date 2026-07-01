@@ -102,7 +102,7 @@
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/file-organizer.git
+git clone https://github.com/K0Teu4/file-organizer.git
 cd file-organizer
 ```
 
